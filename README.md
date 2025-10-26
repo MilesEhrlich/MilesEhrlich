@@ -9,6 +9,7 @@ I'm Miles, an aspiring Software Engineer, passionate about full-stack developmen
 [<img src="LinkedIn.svg">](linkedin.com/in/miles-ehrlich-6aa584285)
 
 
+![LinkedIn](https://github.com/user-attachments/assets/793700e9-1ebf-43e6-80c3-24eb5a771349)
 
 
 
