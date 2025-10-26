@@ -1,4 +1,7 @@
-## Hi there 👋
+##Hi! 
+I'm Miles, an aspiring Software Engineer, passionate about full-stack development and solving real-world problems through innovative web technologies. I'm currently a computer science/computer engineering student at Fordham University. 
+
+
 
 <!--
 **MilesEhrlich/MilesEhrlich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
