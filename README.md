@@ -1,5 +1,8 @@
-##Hi!##
+## Hi! 👋
+
 I'm Miles, an aspiring Software Engineer, passionate about full-stack development and solving real-world problems through innovative web technologies. I'm currently a computer science/computer engineering student at Fordham University. 
+
+## TechStack
 
 
 
