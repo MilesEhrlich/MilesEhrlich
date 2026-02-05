@@ -7,4 +7,4 @@ I'm Miles, an aspiring Software Engineer, passionate about full-stack developmen
 
 ## Socials 
 [![text](https://img.shields.io/badge/Email-cc4b37?style=for-the-badge&logo=Email&logoColor=white)](mailto:ehrlich.miles@gmail.com)
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myprofile)
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miles-ehrlich-6aa584285/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjVFmXqw6S1G2DP9WlJQi7w%3D%3D)
