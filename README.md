@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-I'm Miles, an aspiring Software Engineer/Computer Engineer, passionate about full-stack development and solving real-world problems through innovative web technologies. I'm currently a Math & CS/Computer Engineering student at Fordham University. 
+I'm Miles, an aspiring Computer Engineer/Software Engineer with a growing interest in hardware and semiconductor systems. I'm currently a Math & CS/Computer Engineering student at Fordham University.
 
 
 ## TechStack
